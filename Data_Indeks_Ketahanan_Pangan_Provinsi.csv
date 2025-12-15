@@ -1,0 +1,1429 @@
+Tahun;Bulan Rilis;Provinsi;Kode_Provinsi;Indeks_Ketersediaan;Indeks_Keterjangkauan;Indeks_Pemanfaatan;Indeks_Komposit
+2022;Juli;Aceh;11;2;3;3;3
+2022;Juli;Sumatera Utara;12;2;3;3;3
+2022;Juli;Sumatera Barat;13;2;3;3;3
+2022;Juli;Riau;14;2;3;3;3
+2022;Juli;Jambi;15;2;3;3;3
+2022;Juli;Sumatera Selatan;16;2;3;3;3
+2022;Juli;Bengkulu;17;2;3;3;3
+2022;Juli;Lampung;18;2;3;3;3
+2022;Juli;Bangka Belitung;19;2;3;3;3
+2022;Juli;Kepulauan Riau;21;2;3;3;3
+2022;Juli;DKI Jakarta;31;2;3;3;3
+2022;Juli;Jawa Barat;32;2;3;3;3
+2022;Juli;Jawa Tengah;33;2;3;3;3
+2022;Juli;DI Yogyakarta;34;2;3;3;3
+2022;Juli;Jawa Timur;35;2;3;3;3
+2022;Juli;Banten;36;2;3;3;3
+2022;Juli;Bali;51;2;3;3;3
+2022;Juli;Nusa Tenggara Barat;52;2;3;2;2
+2022;Juli;Nusa Tenggara Timur;53;2;3;1;2
+2022;Juli;Kalimantan Barat;61;2;3;3;3
+2022;Juli;Kalimantan Tengah;62;3;3;3;3
+2022;Juli;Kalimantan Selatan;63;3;3;3;3
+2022;Juli;Kalimantan Timur;64;3;3;3;3
+2022;Juli;Kalimantan Utara;65;2;3;3;3
+2022;Juli;Sulawesi Utara;71;2;3;3;3
+2022;Juli;Sulawesi Tengah;72;2;3;3;3
+2022;Juli;Sulawesi Selatan;73;3;3;3;3
+2022;Juli;Sulawesi Tenggara;74;2;3;3;3
+2022;Juli;Gorontalo;75;2;3;3;3
+2022;Juli;Sulawesi Barat;76;2;3;2;2
+2022;Juli;Maluku;81;3;3;3;3
+2022;Juli;Maluku Utara;82;2;3;3;3
+2022;Juli;Papua Barat;92;3;3;2;3
+2022;Juli;Papua;91;2;3;3;3
+2022;Agustus;Aceh;11;1;3;3;2
+2022;Agustus;Sumatera Utara;12;1;3;3;2
+2022;Agustus;Sumatera Barat;13;1;3;3;2
+2022;Agustus;Riau;14;3;3;3;3
+2022;Agustus;Jambi;15;1;3;3;2
+2022;Agustus;Sumatera Selatan;16;1;3;3;2
+2022;Agustus;Bengkulu;17;2;3;3;3
+2022;Agustus;Lampung;18;1;3;3;2
+2022;Agustus;Bangka Belitung;19;2;3;3;3
+2022;Agustus;Kepulauan Riau;21;2;3;3;3
+2022;Agustus;DKI Jakarta;31;2;3;3;3
+2022;Agustus;Jawa Barat;32;3;3;3;3
+2022;Agustus;Jawa Tengah;33;2;3;3;3
+2022;Agustus;DI Yogyakarta;34;3;3;3;3
+2022;Agustus;Jawa Timur;35;3;3;3;3
+2022;Agustus;Banten;36;3;3;3;3
+2022;Agustus;Bali;51;2;3;3;3
+2022;Agustus;Nusa Tenggara Barat;52;3;3;2;3
+2022;Agustus;Nusa Tenggara Timur;53;2;3;1;2
+2022;Agustus;Kalimantan Barat;61;3;3;3;3
+2022;Agustus;Kalimantan Tengah;62;2;3;3;3
+2022;Agustus;Kalimantan Selatan;63;2;3;3;3
+2022;Agustus;Kalimantan Timur;64;2;3;3;3
+2022;Agustus;Kalimantan Utara;65;2;3;3;3
+2022;Agustus;Sulawesi Utara;71;2;3;3;3
+2022;Agustus;Sulawesi Tengah;72;1;3;3;2
+2022;Agustus;Sulawesi Selatan;73;2;3;3;3
+2022;Agustus;Sulawesi Tenggara;74;2;3;3;3
+2022;Agustus;Gorontalo;75;3;3;3;3
+2022;Agustus;Sulawesi Barat;76;2;3;2;2
+2022;Agustus;Maluku;81;2;3;3;3
+2022;Agustus;Maluku Utara;82;2;3;3;3
+2022;Agustus;Papua Barat;92;2;3;2;2
+2022;Agustus;Papua;91;2;3;3;3
+2022;September;Aceh;11;2;3;3;3
+2022;September;Sumatera Utara;12;2;3;3;3
+2022;September;Sumatera Barat;13;2;3;3;3
+2022;September;Riau;14;2;3;3;3
+2022;September;Jambi;15;2;3;3;3
+2022;September;Sumatera Selatan;16;3;3;3;3
+2022;September;Bengkulu;17;2;3;3;3
+2022;September;Lampung;18;3;3;3;3
+2022;September;Bangka Belitung;19;2;3;3;3
+2022;September;Kepulauan Riau;21;2;3;3;3
+2022;September;DKI Jakarta;31;2;3;3;3
+2022;September;Jawa Barat;32;3;3;3;3
+2022;September;Jawa Tengah;33;3;3;3;3
+2022;September;DI Yogyakarta;34;3;3;3;3
+2022;September;Jawa Timur;35;3;3;3;3
+2022;September;Banten;36;3;3;3;3
+2022;September;Bali;51;2;3;3;3
+2022;September;Nusa Tenggara Barat;52;3;3;3;3
+2022;September;Nusa Tenggara Timur;53;2;3;1;2
+2022;September;Kalimantan Barat;61;2;3;2;2
+2022;September;Kalimantan Tengah;62;3;3;3;3
+2022;September;Kalimantan Selatan;63;3;3;3;3
+2022;September;Kalimantan Timur;64;3;3;3;3
+2022;September;Kalimantan Utara;65;2;3;3;3
+2022;September;Sulawesi Utara;71;2;3;3;3
+2022;September;Sulawesi Tengah;72;2;3;3;3
+2022;September;Sulawesi Selatan;73;3;3;3;3
+2022;September;Sulawesi Tenggara;74;2;3;3;3
+2022;September;Gorontalo;75;3;3;3;3
+2022;September;Sulawesi Barat;76;2;3;2;2
+2022;September;Maluku;81;3;3;3;3
+2022;September;Maluku Utara;82;2;3;3;3
+2022;September;Papua Barat;92;3;3;2;3
+2022;September;Papua;91;3;3;3;3
+2022;Oktober;Aceh;11;2;3;3;3
+2022;Oktober;Sumatera Utara;12;2;3;3;3
+2022;Oktober;Sumatera Barat;13;2;3;3;3
+2022;Oktober;Riau;14;2;3;3;3
+2022;Oktober;Jambi;15;2;3;3;3
+2022;Oktober;Sumatera Selatan;16;2;3;3;3
+2022;Oktober;Bengkulu;17;2;3;3;3
+2022;Oktober;Lampung;18;3;3;3;3
+2022;Oktober;Bangka Belitung;19;2;3;3;3
+2022;Oktober;Kepulauan Riau;21;2;3;3;3
+2022;Oktober;DKI Jakarta;31;3;3;3;3
+2022;Oktober;Jawa Barat;32;3;3;3;3
+2022;Oktober;Jawa Tengah;33;2;3;2;2
+2022;Oktober;DI Yogyakarta;34;2;3;2;2
+2022;Oktober;Jawa Timur;35;2;3;3;3
+2022;Oktober;Banten;36;3;3;3;3
+2022;Oktober;Bali;51;2;3;3;3
+2022;Oktober;Nusa Tenggara Barat;52;2;3;2;2
+2022;Oktober;Nusa Tenggara Timur;53;3;3;1;2
+2022;Oktober;Kalimantan Barat;61;2;3;1;2
+2022;Oktober;Kalimantan Tengah;62;3;3;3;3
+2022;Oktober;Kalimantan Selatan;63;3;3;2;3
+2022;Oktober;Kalimantan Timur;64;3;3;2;3
+2022;Oktober;Kalimantan Utara;65;2;3;3;3
+2022;Oktober;Sulawesi Utara;71;2;3;3;3
+2022;Oktober;Sulawesi Tengah;72;2;3;2;2
+2022;Oktober;Sulawesi Selatan;73;3;3;3;3
+2022;Oktober;Sulawesi Tenggara;74;2;3;3;3
+2022;Oktober;Gorontalo;75;2;3;2;2
+2022;Oktober;Sulawesi Barat;76;2;3;1;2
+2022;Oktober;Maluku;81;3;3;3;3
+2022;Oktober;Maluku Utara;82;2;3;2;2
+2022;Oktober;Papua Barat;92;3;3;1;2
+2022;Oktober;Papua;91;3;3;2;3
+2022;November;Aceh;11;3;3;3;3
+2022;November;Sumatera Utara;12;2;3;3;3
+2022;November;Sumatera Barat;13;2;3;3;3
+2022;November;Riau;14;2;3;3;3
+2022;November;Jambi;15;2;3;3;3
+2022;November;Sumatera Selatan;16;2;3;3;3
+2022;November;Bengkulu;17;2;3;3;3
+2022;November;Lampung;18;2;3;3;3
+2022;November;Bangka Belitung;19;2;3;3;3
+2022;November;Kepulauan Riau;21;2;3;3;3
+2022;November;DKI Jakarta;31;3;3;3;3
+2022;November;Jawa Barat;32;3;3;3;3
+2022;November;Jawa Tengah;33;3;3;2;3
+2022;November;DI Yogyakarta;34;3;3;2;3
+2022;November;Jawa Timur;35;3;3;3;3
+2022;November;Banten;36;3;3;3;3
+2022;November;Bali;51;3;3;3;3
+2022;November;Nusa Tenggara Barat;52;3;3;1;2
+2022;November;Nusa Tenggara Timur;53;2;3;1;2
+2022;November;Kalimantan Barat;61;2;3;2;2
+2022;November;Kalimantan Tengah;62;2;3;3;3
+2022;November;Kalimantan Selatan;63;2;3;2;2
+2022;November;Kalimantan Timur;64;2;3;2;2
+2022;November;Kalimantan Utara;65;2;3;2;2
+2022;November;Sulawesi Utara;71;2;3;3;3
+2022;November;Sulawesi Tengah;72;2;3;2;2
+2022;November;Sulawesi Selatan;73;3;3;2;3
+2022;November;Sulawesi Tenggara;74;3;3;3;3
+2022;November;Gorontalo;75;3;3;3;3
+2022;November;Sulawesi Barat;76;2;3;1;2
+2022;November;Maluku;81;2;3;3;3
+2022;November;Maluku Utara;82;2;3;2;2
+2022;November;Papua Barat;92;3;3;1;2
+2022;November;Papua;91;3;3;2;3
+2022;Desember;Aceh;11;2;3;3;3
+2022;Desember;Sumatera Utara;12;2;3;3;3
+2022;Desember;Sumatera Barat;13;2;3;3;3
+2022;Desember;Riau;14;3;3;3;3
+2022;Desember;Jambi;15;2;3;3;3
+2022;Desember;Sumatera Selatan;16;3;3;3;3
+2022;Desember;Bengkulu;17;2;3;3;3
+2022;Desember;Lampung;18;2;3;3;3
+2022;Desember;Bangka Belitung;19;2;3;3;3
+2022;Desember;Kepulauan Riau;21;2;3;3;3
+2022;Desember;DKI Jakarta;31;3;3;3;3
+2022;Desember;Jawa Barat;32;3;3;3;3
+2022;Desember;Jawa Tengah;33;3;3;2;3
+2022;Desember;DI Yogyakarta;34;2;3;2;2
+2022;Desember;Jawa Timur;35;3;3;3;3
+2022;Desember;Banten;36;3;3;3;3
+2022;Desember;Bali;51;3;3;3;3
+2022;Desember;Nusa Tenggara Barat;52;3;3;1;2
+2022;Desember;Nusa Tenggara Timur;53;2;3;1;2
+2022;Desember;Kalimantan Barat;61;2;3;2;2
+2022;Desember;Kalimantan Tengah;62;2;3;3;3
+2022;Desember;Kalimantan Selatan;63;2;3;2;2
+2022;Desember;Kalimantan Timur;64;2;3;2;2
+2022;Desember;Kalimantan Utara;65;2;3;2;2
+2022;Desember;Sulawesi Utara;71;2;3;3;3
+2022;Desember;Sulawesi Tengah;72;2;3;2;2
+2022;Desember;Sulawesi Selatan;73;2;3;2;2
+2022;Desember;Sulawesi Tenggara;74;3;3;3;3
+2022;Desember;Gorontalo;75;3;3;2;3
+2022;Desember;Sulawesi Barat;76;2;3;1;2
+2022;Desember;Maluku;81;3;3;2;3
+2022;Desember;Maluku Utara;82;2;3;2;2
+2022;Desember;Papua Barat;92;3;3;1;2
+2022;Desember;Papua;91;3;3;2;3
+2023;Januari;Aceh;11;2;3;3;3
+2023;Januari;Sumatera Utara;12;2;3;3;3
+2023;Januari;Sumatera Barat;13;3;3;3;3
+2023;Januari;Riau;14;3;3;3;3
+2023;Januari;Jambi;15;2;3;3;3
+2023;Januari;Sumatera Selatan;16;3;3;3;3
+2023;Januari;Bengkulu;17;2;3;3;3
+2023;Januari;Lampung;18;2;3;3;3
+2023;Januari;Bangka Belitung;19;2;3;3;3
+2023;Januari;Kepulauan Riau;21;2;3;3;3
+2023;Januari;DKI Jakarta;31;3;3;3;3
+2023;Januari;Jawa Barat;32;2;3;3;3
+2023;Januari;Jawa Tengah;33;3;3;2;3
+2023;Januari;DI Yogyakarta;34;3;3;2;3
+2023;Januari;Jawa Timur;35;2;3;3;3
+2023;Januari;Banten;36;2;3;3;3
+2023;Januari;Bali;51;2;3;3;3
+2023;Januari;Nusa Tenggara Barat;52;2;3;2;2
+2023;Januari;Nusa Tenggara Timur;53;2;3;1;2
+2023;Januari;Kalimantan Barat;61;3;3;2;3
+2023;Januari;Kalimantan Tengah;62;2;3;3;3
+2023;Januari;Kalimantan Selatan;63;2;3;2;2
+2023;Januari;Kalimantan Timur;64;2;3;2;2
+2023;Januari;Kalimantan Utara;65;3;3;2;3
+2023;Januari;Sulawesi Utara;71;2;3;3;3
+2023;Januari;Sulawesi Tengah;72;2;3;2;2
+2023;Januari;Sulawesi Selatan;73;2;3;2;2
+2023;Januari;Sulawesi Tenggara;74;2;3;3;3
+2023;Januari;Gorontalo;75;3;3;3;3
+2023;Januari;Sulawesi Barat;76;2;3;1;2
+2023;Januari;Maluku;81;2;3;2;2
+2023;Januari;Maluku Utara;82;2;3;2;2
+2023;Januari;Papua Barat;92;3;3;1;2
+2023;Januari;Papua;91;3;3;2;3
+2023;Februari;Aceh;11;1;3;3;2
+2023;Februari;Sumatera Utara;12;1;3;3;2
+2023;Februari;Sumatera Barat;13;2;3;3;3
+2023;Februari;Riau;14;3;3;3;3
+2023;Februari;Jambi;15;2;3;3;3
+2023;Februari;Sumatera Selatan;16;2;3;3;3
+2023;Februari;Bengkulu;17;2;3;3;3
+2023;Februari;Lampung;18;2;3;3;3
+2023;Februari;Bangka Belitung;19;3;3;3;3
+2023;Februari;Kepulauan Riau;21;2;3;3;3
+2023;Februari;DKI Jakarta;31;2;3;3;3
+2023;Februari;Jawa Barat;32;1;3;3;2
+2023;Februari;Jawa Tengah;33;1;3;3;2
+2023;Februari;DI Yogyakarta;34;2;3;2;2
+2023;Februari;Jawa Timur;35;2;3;3;3
+2023;Februari;Banten;36;1;3;3;2
+2023;Februari;Bali;51;2;3;3;3
+2023;Februari;Nusa Tenggara Barat;52;2;3;1;2
+2023;Februari;Nusa Tenggara Timur;53;2;3;1;2
+2023;Februari;Kalimantan Barat;61;3;3;2;3
+2023;Februari;Kalimantan Tengah;62;3;3;3;3
+2023;Februari;Kalimantan Selatan;63;2;3;2;2
+2023;Februari;Kalimantan Timur;64;2;3;2;2
+2023;Februari;Kalimantan Utara;65;2;3;2;2
+2023;Februari;Sulawesi Utara;71;2;3;3;3
+2023;Februari;Sulawesi Tengah;72;2;3;2;2
+2023;Februari;Sulawesi Selatan;73;1;3;2;2
+2023;Februari;Sulawesi Tenggara;74;2;3;3;3
+2023;Februari;Gorontalo;75;2;3;3;3
+2023;Februari;Sulawesi Barat;76;2;3;1;2
+2023;Februari;Maluku;81;2;3;2;2
+2023;Februari;Maluku Utara;82;2;3;2;2
+2023;Februari;Papua Barat;92;2;3;1;2
+2023;Februari;Papua;91;2;3;2;2
+2023;Maret;Aceh;11;3;3;3;3
+2023;Maret;Sumatera Utara;12;3;3;3;3
+2023;Maret;Sumatera Barat;13;2;3;3;3
+2023;Maret;Riau;14;3;3;3;3
+2023;Maret;Jambi;15;2;3;3;3
+2023;Maret;Sumatera Selatan;16;2;3;3;3
+2023;Maret;Bengkulu;17;2;3;3;3
+2023;Maret;Lampung;18;2;3;3;3
+2023;Maret;Bangka Belitung;19;2;3;3;3
+2023;Maret;Kepulauan Riau;21;2;3;3;3
+2023;Maret;DKI Jakarta;31;2;3;3;3
+2023;Maret;Jawa Barat;32;1;3;3;2
+2023;Maret;Jawa Tengah;33;2;3;3;3
+2023;Maret;DI Yogyakarta;34;2;3;2;2
+2023;Maret;Jawa Timur;35;1;3;3;2
+2023;Maret;Banten;36;2;3;3;3
+2023;Maret;Bali;51;2;3;3;3
+2023;Maret;Nusa Tenggara Barat;52;2;3;2;2
+2023;Maret;Nusa Tenggara Timur;53;2;3;1;2
+2023;Maret;Kalimantan Barat;61;2;3;2;2
+2023;Maret;Kalimantan Tengah;62;3;3;3;3
+2023;Maret;Kalimantan Selatan;63;2;3;2;2
+2023;Maret;Kalimantan Timur;64;2;3;2;2
+2023;Maret;Kalimantan Utara;65;2;3;2;2
+2023;Maret;Sulawesi Utara;71;2;3;3;3
+2023;Maret;Sulawesi Tengah;72;2;3;2;2
+2023;Maret;Sulawesi Selatan;73;1;3;3;2
+2023;Maret;Sulawesi Tenggara;74;2;3;3;3
+2023;Maret;Gorontalo;75;2;3;3;3
+2023;Maret;Sulawesi Barat;76;3;3;1;2
+2023;Maret;Maluku;81;2;3;3;3
+2023;Maret;Maluku Utara;82;2;3;2;2
+2023;Maret;Papua Barat;92;3;3;1;2
+2023;Maret;Papua;91;2;3;2;2
+2023;April;Aceh;11;3;3;3;3
+2023;April;Sumatera Utara;12;2;3;3;3
+2023;April;Sumatera Barat;13;2;3;3;3
+2023;April;Riau;14;2;3;3;3
+2023;April;Jambi;15;2;3;3;3
+2023;April;Sumatera Selatan;16;2;3;3;3
+2023;April;Bengkulu;17;2;3;3;3
+2023;April;Lampung;18;2;3;3;3
+2023;April;Bangka Belitung;19;3;3;3;3
+2023;April;Kepulauan Riau;21;2;3;3;3
+2023;April;DKI Jakarta;31;2;3;3;3
+2023;April;Jawa Barat;32;1;3;3;2
+2023;April;Jawa Tengah;33;2;3;3;3
+2023;April;DI Yogyakarta;34;3;3;2;3
+2023;April;Jawa Timur;35;3;3;3;3
+2023;April;Banten;36;3;3;3;3
+2023;April;Bali;51;3;3;3;3
+2023;April;Nusa Tenggara Barat;52;3;3;2;3
+2023;April;Nusa Tenggara Timur;53;3;3;1;2
+2023;April;Kalimantan Barat;61;1;3;2;2
+2023;April;Kalimantan Tengah;62;1;3;3;2
+2023;April;Kalimantan Selatan;63;2;3;2;2
+2023;April;Kalimantan Timur;64;1;3;2;2
+2023;April;Kalimantan Utara;65;2;3;2;2
+2023;April;Sulawesi Utara;71;3;3;3;3
+2023;April;Sulawesi Tengah;72;3;3;2;3
+2023;April;Sulawesi Selatan;73;3;3;2;3
+2023;April;Sulawesi Tenggara;74;2;3;3;3
+2023;April;Gorontalo;75;2;3;3;3
+2023;April;Sulawesi Barat;76;3;3;1;2
+2023;April;Maluku;81;2;3;2;2
+2023;April;Maluku Utara;82;2;3;2;2
+2023;April;Papua Barat;92;3;3;1;2
+2023;April;Papua;91;3;3;2;3
+2023;Mei;Aceh;11;1;3;3;2
+2023;Mei;Sumatera Utara;12;2;3;3;3
+2023;Mei;Sumatera Barat;13;2;3;3;3
+2023;Mei;Riau;14;2;3;3;3
+2023;Mei;Jambi;15;2;3;3;3
+2023;Mei;Sumatera Selatan;16;3;3;3;3
+2023;Mei;Bengkulu;17;2;3;3;3
+2023;Mei;Lampung;18;3;3;3;3
+2023;Mei;Bangka Belitung;19;2;3;3;3
+2023;Mei;Kepulauan Riau;21;2;3;3;3
+2023;Mei;DKI Jakarta;31;2;3;3;3
+2023;Mei;Jawa Barat;32;2;3;3;3
+2023;Mei;Jawa Tengah;33;2;3;3;3
+2023;Mei;DI Yogyakarta;34;2;3;2;2
+2023;Mei;Jawa Timur;35;2;3;3;3
+2023;Mei;Banten;36;2;3;3;3
+2023;Mei;Bali;51;3;3;3;3
+2023;Mei;Nusa Tenggara Barat;52;2;3;2;2
+2023;Mei;Nusa Tenggara Timur;53;2;3;1;2
+2023;Mei;Kalimantan Barat;61;2;3;2;2
+2023;Mei;Kalimantan Tengah;62;2;3;3;3
+2023;Mei;Kalimantan Selatan;63;2;3;2;2
+2023;Mei;Kalimantan Timur;64;2;3;2;2
+2023;Mei;Kalimantan Utara;65;3;3;2;3
+2023;Mei;Sulawesi Utara;71;2;3;3;3
+2023;Mei;Sulawesi Tengah;72;3;3;2;3
+2023;Mei;Sulawesi Selatan;73;2;3;2;2
+2023;Mei;Sulawesi Tenggara;74;2;3;3;3
+2023;Mei;Gorontalo;75;2;3;3;3
+2023;Mei;Sulawesi Barat;76;3;3;1;2
+2023;Mei;Maluku;81;2;3;2;2
+2023;Mei;Maluku Utara;82;2;3;2;2
+2023;Mei;Papua Barat;92;2;3;1;2
+2023;Mei;Papua;91;3;3;2;3
+2023;Juni;Aceh;11;2;3;3;3
+2023;Juni;Sumatera Utara;12;2;3;3;3
+2023;Juni;Sumatera Barat;13;2;3;3;3
+2023;Juni;Riau;14;2;3;3;3
+2023;Juni;Jambi;15;2;3;3;3
+2023;Juni;Sumatera Selatan;16;2;3;3;3
+2023;Juni;Bengkulu;17;2;3;3;3
+2023;Juni;Lampung;18;3;3;3;3
+2023;Juni;Bangka Belitung;19;2;3;3;3
+2023;Juni;Kepulauan Riau;21;2;3;3;3
+2023;Juni;DKI Jakarta;31;3;3;3;3
+2023;Juni;Jawa Barat;32;2;3;3;3
+2023;Juni;Jawa Tengah;33;2;3;3;3
+2023;Juni;DI Yogyakarta;34;2;3;2;2
+2023;Juni;Jawa Timur;35;2;3;3;3
+2023;Juni;Banten;36;2;3;3;3
+2023;Juni;Bali;51;2;3;3;3
+2023;Juni;Nusa Tenggara Barat;52;2;3;2;2
+2023;Juni;Nusa Tenggara Timur;53;2;3;1;2
+2023;Juni;Kalimantan Barat;61;2;3;2;2
+2023;Juni;Kalimantan Tengah;62;2;3;3;3
+2023;Juni;Kalimantan Selatan;63;1;3;2;2
+2023;Juni;Kalimantan Timur;64;2;3;2;2
+2023;Juni;Kalimantan Utara;65;2;3;2;2
+2023;Juni;Sulawesi Utara;71;2;3;3;3
+2023;Juni;Sulawesi Tengah;72;1;3;2;2
+2023;Juni;Sulawesi Selatan;73;2;3;2;2
+2023;Juni;Sulawesi Tenggara;74;2;3;3;3
+2023;Juni;Gorontalo;75;2;3;3;3
+2023;Juni;Sulawesi Barat;76;1;3;1;1
+2023;Juni;Maluku;81;2;3;3;3
+2023;Juni;Maluku Utara;82;2;3;2;2
+2023;Juni;Papua Barat;92;3;3;1;2
+2023;Juni;Papua;91;2;3;2;2
+2023;Juli;Aceh;11;2;3;3;3
+2023;Juli;Sumatera Utara;12;2;3;3;3
+2023;Juli;Sumatera Barat;13;3;3;3;3
+2023;Juli;Riau;14;2;3;3;3
+2023;Juli;Jambi;15;3;3;3;3
+2023;Juli;Sumatera Selatan;16;3;3;3;3
+2023;Juli;Bengkulu;17;2;3;3;3
+2023;Juli;Lampung;18;3;3;3;3
+2023;Juli;Bangka Belitung;19;2;3;3;3
+2023;Juli;Kepulauan Riau;21;2;3;3;3
+2023;Juli;DKI Jakarta;31;3;3;3;3
+2023;Juli;Jawa Barat;32;2;3;3;3
+2023;Juli;Jawa Tengah;33;2;3;2;2
+2023;Juli;DI Yogyakarta;34;2;3;2;2
+2023;Juli;Jawa Timur;35;2;3;3;3
+2023;Juli;Banten;36;2;3;3;3
+2023;Juli;Bali;51;2;3;3;3
+2023;Juli;Nusa Tenggara Barat;52;2;3;2;2
+2023;Juli;Nusa Tenggara Timur;53;2;3;1;2
+2023;Juli;Kalimantan Barat;61;2;3;2;2
+2023;Juli;Kalimantan Tengah;62;2;3;3;3
+2023;Juli;Kalimantan Selatan;63;2;3;2;2
+2023;Juli;Kalimantan Timur;64;3;3;2;3
+2023;Juli;Kalimantan Utara;65;2;3;2;2
+2023;Juli;Sulawesi Utara;71;3;3;3;3
+2023;Juli;Sulawesi Tengah;72;2;3;2;2
+2023;Juli;Sulawesi Selatan;73;2;3;2;2
+2023;Juli;Sulawesi Tenggara;74;2;3;3;3
+2023;Juli;Gorontalo;75;2;3;3;3
+2023;Juli;Sulawesi Barat;76;2;3;1;2
+2023;Juli;Maluku;81;3;3;2;3
+2023;Juli;Maluku Utara;82;3;3;2;3
+2023;Juli;Papua Barat;92;2;3;1;2
+2023;Juli;Papua;91;2;3;2;2
+2023;Agustus;Aceh;11;2;3;3;3
+2023;Agustus;Sumatera Utara;12;3;3;3;3
+2023;Agustus;Sumatera Barat;13;3;3;3;3
+2023;Agustus;Riau;14;3;3;3;3
+2023;Agustus;Jambi;15;3;3;3;3
+2023;Agustus;Sumatera Selatan;16;2;3;3;3
+2023;Agustus;Bengkulu;17;2;3;3;3
+2023;Agustus;Lampung;18;3;3;3;3
+2023;Agustus;Bangka Belitung;19;3;3;3;3
+2023;Agustus;Kepulauan Riau;21;2;3;3;3
+2023;Agustus;DKI Jakarta;31;3;3;3;3
+2023;Agustus;Jawa Barat;32;3;3;3;3
+2023;Agustus;Jawa Tengah;33;2;3;2;2
+2023;Agustus;DI Yogyakarta;34;3;3;2;3
+2023;Agustus;Jawa Timur;35;2;3;3;3
+2023;Agustus;Banten;36;2;3;3;3
+2023;Agustus;Bali;51;2;3;3;3
+2023;Agustus;Nusa Tenggara Barat;52;2;3;2;2
+2023;Agustus;Nusa Tenggara Timur;53;2;3;1;2
+2023;Agustus;Kalimantan Barat;61;3;3;1;2
+2023;Agustus;Kalimantan Tengah;62;3;3;3;3
+2023;Agustus;Kalimantan Selatan;63;3;3;2;3
+2023;Agustus;Kalimantan Timur;64;2;3;2;2
+2023;Agustus;Kalimantan Utara;65;2;3;2;2
+2023;Agustus;Sulawesi Utara;71;3;3;3;3
+2023;Agustus;Sulawesi Tengah;72;2;3;2;2
+2023;Agustus;Sulawesi Selatan;73;3;3;2;3
+2023;Agustus;Sulawesi Tenggara;74;2;3;3;3
+2023;Agustus;Gorontalo;75;2;3;3;3
+2023;Agustus;Sulawesi Barat;76;2;3;1;2
+2023;Agustus;Maluku;81;2;3;3;3
+2023;Agustus;Maluku Utara;82;2;3;2;2
+2023;Agustus;Papua Barat;92;2;3;1;2
+2023;Agustus;Papua;91;3;3;2;3
+2023;September;Aceh;11;1;3;3;2
+2023;September;Sumatera Utara;12;3;3;3;3
+2023;September;Sumatera Barat;13;2;3;3;3
+2023;September;Riau;14;3;3;3;3
+2023;September;Jambi;15;2;3;3;3
+2023;September;Sumatera Selatan;16;2;3;3;3
+2023;September;Bengkulu;17;2;3;3;3
+2023;September;Lampung;18;2;3;3;3
+2023;September;Bangka Belitung;19;3;3;3;3
+2023;September;Kepulauan Riau;21;3;3;3;3
+2023;September;DKI Jakarta;31;2;3;3;3
+2023;September;Jawa Barat;32;2;3;3;3
+2023;September;Jawa Tengah;33;2;3;3;3
+2023;September;DI Yogyakarta;34;2;3;2;2
+2023;September;Jawa Timur;35;2;3;3;3
+2023;September;Banten;36;2;3;3;3
+2023;September;Bali;51;3;3;3;3
+2023;September;Nusa Tenggara Barat;52;3;3;2;3
+2023;September;Nusa Tenggara Timur;53;2;3;1;2
+2023;September;Kalimantan Barat;61;2;3;1;2
+2023;September;Kalimantan Tengah;62;3;3;2;3
+2023;September;Kalimantan Selatan;63;2;3;2;2
+2023;September;Kalimantan Timur;64;2;3;2;2
+2023;September;Kalimantan Utara;65;2;3;2;2
+2023;September;Sulawesi Utara;71;2;3;3;3
+2023;September;Sulawesi Tengah;72;2;3;2;2
+2023;September;Sulawesi Selatan;73;3;3;3;3
+2023;September;Sulawesi Tenggara;74;2;3;3;3
+2023;September;Gorontalo;75;3;3;3;3
+2023;September;Sulawesi Barat;76;2;3;1;2
+2023;September;Maluku;81;2;3;3;3
+2023;September;Maluku Utara;82;2;3;2;2
+2023;September;Papua Barat;92;3;3;1;2
+2023;September;Papua;91;3;1;2;2
+2023;Oktober;Aceh;11;2;3;3;3
+2023;Oktober;Sumatera Utara;12;1;3;3;2
+2023;Oktober;Sumatera Barat;13;3;3;3;3
+2023;Oktober;Riau;14;3;3;3;3
+2023;Oktober;Jambi;15;2;3;3;3
+2023;Oktober;Sumatera Selatan;16;2;3;3;3
+2023;Oktober;Bengkulu;17;3;3;3;3
+2023;Oktober;Lampung;18;2;3;3;3
+2023;Oktober;Bangka Belitung;19;3;3;3;3
+2023;Oktober;Kepulauan Riau;21;2;3;3;3
+2023;Oktober;DKI Jakarta;31;2;3;3;3
+2023;Oktober;Jawa Barat;32;2;3;3;3
+2023;Oktober;Jawa Tengah;33;3;3;3;3
+2023;Oktober;DI Yogyakarta;34;2;3;2;2
+2023;Oktober;Jawa Timur;35;3;3;3;3
+2023;Oktober;Banten;36;2;3;3;3
+2023;Oktober;Bali;51;3;3;3;3
+2023;Oktober;Nusa Tenggara Barat;52;3;3;2;3
+2023;Oktober;Nusa Tenggara Timur;53;3;3;1;2
+2023;Oktober;Kalimantan Barat;61;2;3;1;2
+2023;Oktober;Kalimantan Tengah;62;2;3;2;2
+2023;Oktober;Kalimantan Selatan;63;2;3;2;2
+2023;Oktober;Kalimantan Timur;64;2;3;1;2
+2023;Oktober;Kalimantan Utara;65;2;3;2;2
+2023;Oktober;Sulawesi Utara;71;2;3;3;3
+2023;Oktober;Sulawesi Tengah;72;3;3;2;3
+2023;Oktober;Sulawesi Selatan;73;3;3;2;3
+2023;Oktober;Sulawesi Tenggara;74;2;3;3;3
+2023;Oktober;Gorontalo;75;2;3;3;3
+2023;Oktober;Sulawesi Barat;76;2;3;1;2
+2023;Oktober;Maluku;81;2;3;3;3
+2023;Oktober;Maluku Utara;82;2;3;2;2
+2023;Oktober;Papua Barat;92;3;3;1;2
+2023;Oktober;Papua;91;2;2;2;2
+2023;November;Aceh;11;3;3;3;3
+2023;November;Sumatera Utara;12;2;3;3;3
+2023;November;Sumatera Barat;13;2;3;3;3
+2023;November;Riau;14;2;3;3;3
+2023;November;Jambi;15;2;3;3;3
+2023;November;Sumatera Selatan;16;2;3;3;3
+2023;November;Bengkulu;17;2;3;3;3
+2023;November;Lampung;18;2;3;3;3
+2023;November;Bangka Belitung;19;2;3;3;3
+2023;November;Kepulauan Riau;21;2;3;3;3
+2023;November;DKI Jakarta;31;3;3;3;3
+2023;November;Jawa Barat;32;2;3;3;3
+2023;November;Jawa Tengah;33;2;3;2;2
+2023;November;DI Yogyakarta;34;2;3;2;2
+2023;November;Jawa Timur;35;2;3;3;3
+2023;November;Banten;36;2;3;3;3
+2023;November;Bali;51;3;3;3;3
+2023;November;Nusa Tenggara Barat;52;2;3;2;2
+2023;November;Nusa Tenggara Timur;53;2;3;1;2
+2023;November;Kalimantan Barat;61;3;3;1;2
+2023;November;Kalimantan Tengah;62;2;3;2;2
+2023;November;Kalimantan Selatan;63;2;3;2;2
+2023;November;Kalimantan Timur;64;2;3;2;2
+2023;November;Kalimantan Utara;65;2;3;3;3
+2023;November;Sulawesi Utara;71;2;3;3;3
+2023;November;Sulawesi Tengah;72;3;3;2;3
+2023;November;Sulawesi Selatan;73;1;3;2;2
+2023;November;Sulawesi Tenggara;74;2;3;3;3
+2023;November;Gorontalo;75;1;3;3;2
+2023;November;Sulawesi Barat;76;1;3;1;1
+2023;November;Maluku;81;2;3;3;3
+2023;November;Maluku Utara;82;2;3;3;3
+2023;November;Papua Barat;92;2;3;1;2
+2023;November;Papua;91;2;3;2;2
+2023;Desember;Aceh;11;2;3;3;3
+2023;Desember;Sumatera Utara;12;2;3;3;3
+2023;Desember;Sumatera Barat;13;2;3;3;3
+2023;Desember;Riau;14;2;3;3;3
+2023;Desember;Jambi;15;2;3;3;3
+2023;Desember;Sumatera Selatan;16;2;3;3;3
+2023;Desember;Bengkulu;17;2;3;3;3
+2023;Desember;Lampung;18;2;3;3;3
+2023;Desember;Bangka Belitung;19;2;3;3;3
+2023;Desember;Kepulauan Riau;21;2;3;3;3
+2023;Desember;DKI Jakarta;31;2;3;3;3
+2023;Desember;Jawa Barat;32;2;3;3;3
+2023;Desember;Jawa Tengah;33;2;3;2;2
+2023;Desember;DI Yogyakarta;34;2;3;2;2
+2023;Desember;Jawa Timur;35;2;3;3;3
+2023;Desember;Banten;36;2;3;3;3
+2023;Desember;Bali;51;2;3;3;3
+2023;Desember;Nusa Tenggara Barat;52;2;3;2;2
+2023;Desember;Nusa Tenggara Timur;53;2;3;1;2
+2023;Desember;Kalimantan Barat;61;2;3;1;2
+2023;Desember;Kalimantan Tengah;62;2;3;2;2
+2023;Desember;Kalimantan Selatan;63;2;3;2;2
+2023;Desember;Kalimantan Timur;64;2;3;1;2
+2023;Desember;Kalimantan Utara;65;3;3;2;3
+2023;Desember;Sulawesi Utara;71;2;3;3;3
+2023;Desember;Sulawesi Tengah;72;2;3;2;2
+2023;Desember;Sulawesi Selatan;73;2;3;3;3
+2023;Desember;Sulawesi Tenggara;74;3;3;3;3
+2023;Desember;Gorontalo;75;2;3;3;3
+2023;Desember;Sulawesi Barat;76;2;3;1;2
+2023;Desember;Maluku;81;3;2;3;3
+2023;Desember;Maluku Utara;82;2;2;2;2
+2023;Desember;Papua Barat;92;2;2;1;1
+2023;Desember;Papua;91;2;3;2;2
+2024;Januari;Aceh;11;2;3;3;3
+2024;Januari;Sumatera Utara;12;2;3;3;3
+2024;Januari;Sumatera Barat;13;2;3;3;3
+2024;Januari;Riau;14;2;3;3;3
+2024;Januari;Jambi;15;2;3;3;3
+2024;Januari;Sumatera Selatan;16;2;3;3;3
+2024;Januari;Bengkulu;17;2;3;3;3
+2024;Januari;Lampung;18;2;3;3;3
+2024;Januari;Bangka Belitung;19;2;3;3;3
+2024;Januari;Kepulauan Riau;21;2;3;3;3
+2024;Januari;DKI Jakarta;31;2;3;3;3
+2024;Januari;Jawa Barat;32;2;3;3;3
+2024;Januari;Jawa Tengah;33;2;3;2;2
+2024;Januari;DI Yogyakarta;34;2;3;2;2
+2024;Januari;Jawa Timur;35;3;3;3;3
+2024;Januari;Banten;36;2;3;3;3
+2024;Januari;Bali;51;2;3;3;3
+2024;Januari;Nusa Tenggara Barat;52;3;3;2;3
+2024;Januari;Nusa Tenggara Timur;53;2;3;1;2
+2024;Januari;Kalimantan Barat;61;2;3;2;2
+2024;Januari;Kalimantan Tengah;62;2;3;3;3
+2024;Januari;Kalimantan Selatan;63;2;3;2;2
+2024;Januari;Kalimantan Timur;64;2;3;1;2
+2024;Januari;Kalimantan Utara;65;2;3;2;2
+2024;Januari;Sulawesi Utara;71;2;3;3;3
+2024;Januari;Sulawesi Tengah;72;2;3;2;2
+2024;Januari;Sulawesi Selatan;73;3;3;3;3
+2024;Januari;Sulawesi Tenggara;74;2;3;3;3
+2024;Januari;Gorontalo;75;2;3;3;3
+2024;Januari;Sulawesi Barat;76;2;3;1;2
+2024;Januari;Maluku;81;2;3;3;3
+2024;Januari;Maluku Utara;82;2;3;2;2
+2024;Januari;Papua Barat;92;2;3;1;2
+2024;Januari;Papua;91;3;3;2;3
+2024;Februari;Aceh;11;2;3;3;3
+2024;Februari;Sumatera Utara;12;2;3;3;3
+2024;Februari;Sumatera Barat;13;1;3;3;2
+2024;Februari;Riau;14;3;3;3;3
+2024;Februari;Jambi;15;2;3;3;3
+2024;Februari;Sumatera Selatan;16;2;3;3;3
+2024;Februari;Bengkulu;17;2;3;3;3
+2024;Februari;Lampung;18;1;3;3;2
+2024;Februari;Bangka Belitung;19;3;3;3;3
+2024;Februari;Kepulauan Riau;21;2;3;3;3
+2024;Februari;DKI Jakarta;31;3;3;3;3
+2024;Februari;Jawa Barat;32;2;3;3;3
+2024;Februari;Jawa Tengah;33;3;3;2;3
+2024;Februari;DI Yogyakarta;34;3;3;2;3
+2024;Februari;Jawa Timur;35;3;3;3;3
+2024;Februari;Banten;36;2;3;3;3
+2024;Februari;Bali;51;2;3;3;3
+2024;Februari;Nusa Tenggara Barat;52;2;3;1;2
+2024;Februari;Nusa Tenggara Timur;53;2;3;1;2
+2024;Februari;Kalimantan Barat;61;2;3;2;2
+2024;Februari;Kalimantan Tengah;62;2;3;2;2
+2024;Februari;Kalimantan Selatan;63;2;3;2;2
+2024;Februari;Kalimantan Timur;64;3;3;1;2
+2024;Februari;Kalimantan Utara;65;2;3;2;2
+2024;Februari;Sulawesi Utara;71;1;3;3;2
+2024;Februari;Sulawesi Tengah;72;2;3;2;2
+2024;Februari;Sulawesi Selatan;73;2;3;2;2
+2024;Februari;Sulawesi Tenggara;74;2;3;3;3
+2024;Februari;Gorontalo;75;3;3;3;3
+2024;Februari;Sulawesi Barat;76;2;3;1;2
+2024;Februari;Maluku;81;2;3;2;2
+2024;Februari;Maluku Utara;82;2;3;2;2
+2024;Februari;Papua Barat;92;3;3;1;2
+2024;Februari;Papua;91;3;3;2;3
+2024;Maret;Aceh;11;2;3;3;3
+2024;Maret;Sumatera Utara;12;2;3;3;3
+2024;Maret;Sumatera Barat;13;2;3;3;3
+2024;Maret;Riau;14;3;3;3;3
+2024;Maret;Jambi;15;2;3;3;3
+2024;Maret;Sumatera Selatan;16;2;3;3;3
+2024;Maret;Bengkulu;17;3;3;3;3
+2024;Maret;Lampung;18;2;3;3;3
+2024;Maret;Bangka Belitung;19;3;3;3;3
+2024;Maret;Kepulauan Riau;21;2;3;3;3
+2024;Maret;DKI Jakarta;31;2;3;3;3
+2024;Maret;Jawa Barat;32;3;3;3;3
+2024;Maret;Jawa Tengah;33;2;3;2;2
+2024;Maret;DI Yogyakarta;34;3;3;2;3
+2024;Maret;Jawa Timur;35;3;3;3;3
+2024;Maret;Banten;36;3;3;3;3
+2024;Maret;Bali;51;3;3;3;3
+2024;Maret;Nusa Tenggara Barat;52;2;3;1;2
+2024;Maret;Nusa Tenggara Timur;53;2;3;1;2
+2024;Maret;Kalimantan Barat;61;2;3;2;2
+2024;Maret;Kalimantan Tengah;62;2;3;2;2
+2024;Maret;Kalimantan Selatan;63;2;3;2;2
+2024;Maret;Kalimantan Timur;64;3;3;2;3
+2024;Maret;Kalimantan Utara;65;2;3;3;3
+2024;Maret;Sulawesi Utara;71;1;3;3;2
+2024;Maret;Sulawesi Tengah;72;3;3;2;3
+2024;Maret;Sulawesi Selatan;73;3;3;3;3
+2024;Maret;Sulawesi Tenggara;74;2;3;3;3
+2024;Maret;Gorontalo;75;3;3;3;3
+2024;Maret;Sulawesi Barat;76;2;3;1;2
+2024;Maret;Maluku;81;2;3;2;2
+2024;Maret;Maluku Utara;82;2;3;2;2
+2024;Maret;Papua Barat;92;2;3;1;2
+2024;Maret;Papua;91;2;2;2;2
+2024;April;Aceh;11;2;2;3;2
+2024;April;Sumatera Utara;12;2;2;3;2
+2024;April;Sumatera Barat;13;2;3;3;3
+2024;April;Riau;14;3;2;3;3
+2024;April;Jambi;15;3;2;3;3
+2024;April;Sumatera Selatan;16;2;2;3;2
+2024;April;Bengkulu;17;3;2;3;3
+2024;April;Lampung;18;3;2;3;3
+2024;April;Bangka Belitung;19;2;2;3;2
+2024;April;Kepulauan Riau;21;1;3;3;2
+2024;April;DKI Jakarta;31;2;2;3;2
+2024;April;Jawa Barat;32;2;2;3;2
+2024;April;Jawa Tengah;33;1;2;2;1
+2024;April;DI Yogyakarta;34;2;2;2;2
+2024;April;Jawa Timur;35;2;2;3;2
+2024;April;Banten;36;1;2;3;2
+2024;April;Bali;51;3;2;3;3
+2024;April;Nusa Tenggara Barat;52;3;2;1;2
+2024;April;Nusa Tenggara Timur;53;3;2;1;2
+2024;April;Kalimantan Barat;61;2;3;2;2
+2024;April;Kalimantan Tengah;62;2;3;2;2
+2024;April;Kalimantan Selatan;63;2;3;2;2
+2024;April;Kalimantan Timur;64;3;3;1;2
+2024;April;Kalimantan Utara;65;3;3;2;3
+2024;April;Sulawesi Utara;71;2;2;3;2
+2024;April;Sulawesi Tengah;72;2;2;2;2
+2024;April;Sulawesi Selatan;73;3;2;2;2
+2024;April;Sulawesi Tenggara;74;2;2;3;2
+2024;April;Gorontalo;75;2;2;3;2
+2024;April;Sulawesi Barat;76;2;2;1;1
+2024;April;Maluku;81;3;3;2;3
+2024;April;Maluku Utara;82;2;3;2;2
+2024;April;Papua Barat;92;2;1;1;1
+2024;April;Papua;91;2;2;2;2
+2024;Mei;Aceh;11;2;2;3;2
+2024;Mei;Sumatera Utara;12;2;2;3;2
+2024;Mei;Sumatera Barat;13;1;2;3;2
+2024;Mei;Riau;14;2;2;3;2
+2024;Mei;Jambi;15;2;2;3;2
+2024;Mei;Sumatera Selatan;16;3;3;3;3
+2024;Mei;Bengkulu;17;2;3;3;3
+2024;Mei;Lampung;18;2;3;3;3
+2024;Mei;Bangka Belitung;19;2;3;3;3
+2024;Mei;Kepulauan Riau;21;2;2;3;2
+2024;Mei;DKI Jakarta;31;2;2;3;2
+2024;Mei;Jawa Barat;32;1;3;3;2
+2024;Mei;Jawa Tengah;33;2;3;2;2
+2024;Mei;DI Yogyakarta;34;2;3;2;2
+2024;Mei;Jawa Timur;35;2;3;3;3
+2024;Mei;Banten;36;2;2;3;2
+2024;Mei;Bali;51;3;2;3;3
+2024;Mei;Nusa Tenggara Barat;52;2;2;1;1
+2024;Mei;Nusa Tenggara Timur;53;3;2;1;2
+2024;Mei;Kalimantan Barat;61;2;3;2;2
+2024;Mei;Kalimantan Tengah;62;2;3;3;3
+2024;Mei;Kalimantan Selatan;63;2;3;2;2
+2024;Mei;Kalimantan Timur;64;2;3;2;2
+2024;Mei;Kalimantan Utara;65;3;2;3;3
+2024;Mei;Sulawesi Utara;71;2;2;3;2
+2024;Mei;Sulawesi Tengah;72;2;2;2;2
+2024;Mei;Sulawesi Selatan;73;1;2;3;2
+2024;Mei;Sulawesi Tenggara;74;3;2;3;3
+2024;Mei;Gorontalo;75;2;2;3;2
+2024;Mei;Sulawesi Barat;76;2;2;1;1
+2024;Mei;Maluku;81;2;2;2;2
+2024;Mei;Maluku Utara;82;2;2;2;2
+2024;Mei;Papua Barat;92;2;1;1;1
+2024;Mei;Papua;91;2;2;2;2
+2024;Juni;Aceh;11;1;3;3;2
+2024;Juni;Sumatera Utara;12;2;3;3;3
+2024;Juni;Sumatera Barat;13;1;3;3;2
+2024;Juni;Riau;14;2;3;3;3
+2024;Juni;Jambi;15;2;3;3;3
+2024;Juni;Sumatera Selatan;16;2;3;3;3
+2024;Juni;Bengkulu;17;2;3;3;3
+2024;Juni;Lampung;18;2;3;3;3
+2024;Juni;Bangka Belitung;19;2;3;3;3
+2024;Juni;Kepulauan Riau;21;2;2;3;2
+2024;Juni;DKI Jakarta;31;2;2;3;2
+2024;Juni;Jawa Barat;32;2;3;3;3
+2024;Juni;Jawa Tengah;33;2;3;2;2
+2024;Juni;DI Yogyakarta;34;3;3;2;3
+2024;Juni;Jawa Timur;35;3;3;3;3
+2024;Juni;Banten;36;2;2;3;2
+2024;Juni;Bali;51;2;3;3;3
+2024;Juni;Nusa Tenggara Barat;52;3;2;1;2
+2024;Juni;Nusa Tenggara Timur;53;3;3;1;2
+2024;Juni;Kalimantan Barat;61;2;3;2;2
+2024;Juni;Kalimantan Tengah;62;2;3;2;2
+2024;Juni;Kalimantan Selatan;63;2;3;2;2
+2024;Juni;Kalimantan Timur;64;2;3;1;2
+2024;Juni;Kalimantan Utara;65;2;3;3;3
+2024;Juni;Sulawesi Utara;71;2;2;3;2
+2024;Juni;Sulawesi Tengah;72;2;3;2;2
+2024;Juni;Sulawesi Selatan;73;1;3;2;2
+2024;Juni;Sulawesi Tenggara;74;2;2;3;2
+2024;Juni;Gorontalo;75;2;2;3;2
+2024;Juni;Sulawesi Barat;76;2;3;1;2
+2024;Juni;Maluku;81;2;2;2;2
+2024;Juni;Maluku Utara;82;3;3;2;3
+2024;Juni;Papua;91;2;3;2;2
+2024;Juni;Papua Pegunungan;95;2;2;3;2
+2024;Juni;Papua Selatan;93;2;2;1;1
+2024;Juni;Papua Tengah;94;2;1;2;1
+2024;Juni;Papua Barat;92;2;2;1;1
+2024;Juni;Papua Barat Daya;92-B;2;3;1;2
+2024;Juli;Aceh;11;3;3;3;3
+2024;Juli;Sumatera Utara;12;3;3;3;3
+2024;Juli;Sumatera Barat;13;3;3;3;3
+2024;Juli;Riau;14;3;3;3;3
+2024;Juli;Jambi;15;3;3;3;3
+2024;Juli;Sumatera Selatan;16;3;3;3;3
+2024;Juli;Bengkulu;17;3;3;3;3
+2024;Juli;Lampung;18;3;3;3;3
+2024;Juli;Bangka Belitung;19;3;3;3;3
+2024;Juli;Kepulauan Riau;21;3;3;3;3
+2024;Juli;DKI Jakarta;31;3;3;3;3
+2024;Juli;Jawa Barat;32;2;3;3;3
+2024;Juli;Jawa Tengah;33;3;3;2;3
+2024;Juli;DI Yogyakarta;34;3;2;2;2
+2024;Juli;Jawa Timur;35;3;3;3;3
+2024;Juli;Banten;36;3;3;3;3
+2024;Juli;Bali;51;3;3;3;3
+2024;Juli;Nusa Tenggara Barat;52;3;3;2;3
+2024;Juli;Nusa Tenggara Timur;53;2;3;1;2
+2024;Juli;Kalimantan Barat;61;3;3;2;3
+2024;Juli;Kalimantan Tengah;62;2;3;3;3
+2024;Juli;Kalimantan Selatan;63;2;3;2;2
+2024;Juli;Kalimantan Timur;64;3;3;2;3
+2024;Juli;Kalimantan Utara;65;2;3;3;3
+2024;Juli;Sulawesi Utara;71;3;3;3;3
+2024;Juli;Sulawesi Tengah;72;3;3;2;3
+2024;Juli;Sulawesi Selatan;73;2;3;3;3
+2024;Juli;Sulawesi Tenggara;74;3;3;3;3
+2024;Juli;Gorontalo;75;3;2;3;3
+2024;Juli;Sulawesi Barat;76;3;3;1;2
+2024;Juli;Maluku;81;3;3;2;3
+2024;Juli;Maluku Utara;82;2;3;3;3
+2024;Juli;Papua;91;2;2;1;1
+2024;Juli;Papua Pegunungan;95;2;3;2;2
+2024;Juli;Papua Selatan;93;3;3;1;2
+2024;Juli;Papua Tengah;94;2;2;2;2
+2024;Juli;Papua Barat;92;3;2;1;2
+2024;Juli;Papua Barat Daya;92-B;2;3;1;2
+2024;Agustus;Aceh;11;3;3;3;3
+2024;Agustus;Sumatera Utara;12;3;3;3;3
+2024;Agustus;Sumatera Barat;13;3;3;3;3
+2024;Agustus;Riau;14;3;3;3;3
+2024;Agustus;Jambi;15;3;2;3;3
+2024;Agustus;Sumatera Selatan;16;3;3;3;3
+2024;Agustus;Bengkulu;17;3;2;3;3
+2024;Agustus;Lampung;18;3;2;3;3
+2024;Agustus;Bangka Belitung;19;2;3;3;3
+2024;Agustus;Kepulauan Riau;21;3;3;3;3
+2024;Agustus;DKI Jakarta;31;3;2;3;3
+2024;Agustus;Jawa Barat;32;3;3;3;3
+2024;Agustus;Jawa Tengah;33;3;3;2;3
+2024;Agustus;DI Yogyakarta;34;2;2;2;2
+2024;Agustus;Jawa Timur;35;1;3;3;2
+2024;Agustus;Banten;36;3;2;3;3
+2024;Agustus;Bali;51;2;3;3;3
+2024;Agustus;Nusa Tenggara Barat;52;3;3;2;3
+2024;Agustus;Nusa Tenggara Timur;53;2;3;1;2
+2024;Agustus;Kalimantan Barat;61;3;3;2;3
+2024;Agustus;Kalimantan Tengah;62;3;3;3;3
+2024;Agustus;Kalimantan Selatan;63;2;3;2;2
+2024;Agustus;Kalimantan Timur;64;3;3;2;3
+2024;Agustus;Kalimantan Utara;65;2;3;3;3
+2024;Agustus;Sulawesi Utara;71;2;2;3;2
+2024;Agustus;Sulawesi Tengah;72;2;3;2;2
+2024;Agustus;Sulawesi Selatan;73;2;3;3;3
+2024;Agustus;Sulawesi Tenggara;74;3;3;3;3
+2024;Agustus;Gorontalo;75;2;2;3;2
+2024;Agustus;Sulawesi Barat;76;2;3;1;2
+2024;Agustus;Maluku;81;2;3;3;3
+2024;Agustus;Maluku Utara;82;2;3;3;3
+2024;Agustus;Papua;91;2;3;1;2
+2024;Agustus;Papua Pegunungan;95;3;3;1;2
+2024;Agustus;Papua Selatan;93;2;2;1;1
+2024;Agustus;Papua Tengah;94;3;2;2;2
+2024;Agustus;Papua Barat;92;3;2;1;2
+2024;Agustus;Papua Barat Daya;92-B;2;3;1;2
+2024;September;Aceh;11;2;2;3;2
+2024;September;Sumatera Utara;12;3;2;3;3
+2024;September;Sumatera Barat;13;2;2;3;2
+2024;September;Riau;14;2;2;3;2
+2024;September;Jambi;15;3;2;3;3
+2024;September;Sumatera Selatan;16;2;2;3;2
+2024;September;Bengkulu;17;2;2;3;2
+2024;September;Lampung;18;3;2;3;3
+2024;September;Bangka Belitung;19;3;2;3;3
+2024;September;Kepulauan Riau;21;2;3;3;3
+2024;September;DKI Jakarta;31;2;3;3;3
+2024;September;Jawa Barat;32;3;2;3;3
+2024;September;Jawa Tengah;33;2;2;2;2
+2024;September;DI Yogyakarta;34;2;2;2;2
+2024;September;Jawa Timur;35;2;2;3;2
+2024;September;Banten;36;2;2;3;2
+2024;September;Bali;51;2;2;3;2
+2024;September;Nusa Tenggara Barat;52;3;2;2;2
+2024;September;Nusa Tenggara Timur;53;2;2;1;1
+2024;September;Kalimantan Barat;61;3;2;2;2
+2024;September;Kalimantan Tengah;62;2;3;3;3
+2024;September;Kalimantan Selatan;63;2;3;2;2
+2024;September;Kalimantan Timur;64;2;2;2;2
+2024;September;Kalimantan Utara;65;2;2;3;2
+2024;September;Sulawesi Utara;71;2;2;3;2
+2024;September;Sulawesi Tengah;72;2;2;2;2
+2024;September;Sulawesi Selatan;73;3;2;3;3
+2024;September;Sulawesi Tenggara;74;2;2;3;2
+2024;September;Gorontalo;75;2;1;3;2
+2024;September;Sulawesi Barat;76;2;2;1;1
+2024;September;Maluku;81;2;2;3;2
+2024;September;Maluku Utara;82;2;2;3;2
+2024;September;Papua;91;2;2;1;1
+2024;September;Papua Pegunungan;95;3;3;3;3
+2024;September;Papua Selatan;93;2;3;1;2
+2024;September;Papua Tengah;94;2;2;3;2
+2024;September;Papua Barat;92;3;2;1;2
+2024;September;Papua Barat Daya;92-B;2;2;1;1
+2024;Oktober;Aceh;11;3;3;3;3
+2024;Oktober;Sumatera Utara;12;2;3;3;3
+2024;Oktober;Sumatera Barat;13;2;3;3;3
+2024;Oktober;Riau;14;2;3;3;3
+2024;Oktober;Jambi;15;3;3;3;3
+2024;Oktober;Sumatera Selatan;16;3;3;3;3
+2024;Oktober;Bengkulu;17;3;3;3;3
+2024;Oktober;Lampung;18;2;3;3;3
+2024;Oktober;Bangka Belitung;19;3;3;3;3
+2024;Oktober;Kepulauan Riau;21;2;2;3;2
+2024;Oktober;DKI Jakarta;31;2;2;3;2
+2024;Oktober;Jawa Barat;32;2;3;3;3
+2024;Oktober;Jawa Tengah;33;3;3;2;3
+2024;Oktober;DI Yogyakarta;34;2;3;2;2
+2024;Oktober;Jawa Timur;35;3;3;3;3
+2024;Oktober;Banten;36;2;3;3;3
+2024;Oktober;Bali;51;3;3;3;3
+2024;Oktober;Nusa Tenggara Barat;52;3;3;2;3
+2024;Oktober;Nusa Tenggara Timur;53;3;3;1;2
+2024;Oktober;Kalimantan Barat;61;3;3;2;3
+2024;Oktober;Kalimantan Tengah;62;2;2;3;2
+2024;Oktober;Kalimantan Selatan;63;2;2;2;2
+2024;Oktober;Kalimantan Timur;64;2;3;2;2
+2024;Oktober;Kalimantan Utara;65;3;2;3;3
+2024;Oktober;Sulawesi Utara;71;2;3;3;3
+2024;Oktober;Sulawesi Tengah;72;2;3;2;2
+2024;Oktober;Sulawesi Selatan;73;3;3;3;3
+2024;Oktober;Sulawesi Tenggara;74;2;3;3;3
+2024;Oktober;Gorontalo;75;2;2;3;2
+2024;Oktober;Sulawesi Barat;76;2;3;1;2
+2024;Oktober;Maluku;81;2;3;3;3
+2024;Oktober;Maluku Utara;82;3;3;3;3
+2024;Oktober;Papua;91;3;2;1;2
+2024;Oktober;Papua Pegunungan;95;3;3;3;3
+2024;Oktober;Papua Selatan;93;2;1;1;1
+2024;Oktober;Papua Tengah;94;2;2;2;2
+2024;Oktober;Papua Barat;92;3;3;1;2
+2024;Oktober;Papua Barat Daya;92-B;2;2;1;1
+2024;November;Aceh;11;1;3;3;2
+2024;November;Sumatera Utara;12;1;3;3;2
+2024;November;Sumatera Barat;13;2;3;3;3
+2024;November;Riau;14;1;3;3;2
+2024;November;Jambi;15;2;2;3;2
+2024;November;Sumatera Selatan;16;3;3;3;3
+2024;November;Bengkulu;17;3;2;3;3
+2024;November;Lampung;18;2;3;3;3
+2024;November;Bangka Belitung;19;2;2;3;2
+2024;November;Kepulauan Riau;21;2;3;3;3
+2024;November;DKI Jakarta;31;2;2;3;2
+2024;November;Jawa Barat;32;2;3;3;3
+2024;November;Jawa Tengah;33;2;3;2;2
+2024;November;DI Yogyakarta;34;2;3;2;2
+2024;November;Jawa Timur;35;3;3;3;3
+2024;November;Banten;36;2;3;3;3
+2024;November;Bali;51;1;3;3;2
+2024;November;Nusa Tenggara Barat;52;2;3;2;2
+2024;November;Nusa Tenggara Timur;53;3;3;1;2
+2024;November;Kalimantan Barat;61;3;3;2;3
+2024;November;Kalimantan Tengah;62;2;3;3;3
+2024;November;Kalimantan Selatan;63;3;2;2;2
+2024;November;Kalimantan Timur;64;2;3;2;2
+2024;November;Kalimantan Utara;65;2;2;3;2
+2024;November;Sulawesi Utara;71;2;3;3;3
+2024;November;Sulawesi Tengah;72;3;3;2;3
+2024;November;Sulawesi Selatan;73;2;3;3;3
+2024;November;Sulawesi Tenggara;74;2;3;3;3
+2024;November;Gorontalo;75;2;2;3;2
+2024;November;Sulawesi Barat;76;3;3;1;2
+2024;November;Maluku;81;2;3;3;3
+2024;November;Maluku Utara;82;3;3;3;3
+2024;November;Papua;91;2;2;1;1
+2024;November;Papua Pegunungan;95;3;3;1;2
+2024;November;Papua Selatan;93;2;2;2;2
+2024;November;Papua Tengah;94;2;3;1;2
+2024;November;Papua Barat;92;2;2;2;2
+2024;November;Papua Barat Daya;92-B;2;2;2;2
+2024;Desember;Aceh;11;2;3;3;3
+2024;Desember;Sumatera Utara;12;1;3;3;2
+2024;Desember;Sumatera Barat;13;2;3;3;3
+2024;Desember;Riau;14;2;3;3;3
+2024;Desember;Jambi;15;2;2;3;2
+2024;Desember;Sumatera Selatan;16;3;3;3;3
+2024;Desember;Bengkulu;17;2;2;3;2
+2024;Desember;Lampung;18;3;3;3;3
+2024;Desember;Bangka Belitung;19;3;2;3;3
+2024;Desember;Kepulauan Riau;21;2;2;3;2
+2024;Desember;DKI Jakarta;31;2;2;3;2
+2024;Desember;Jawa Barat;32;2;3;3;3
+2024;Desember;Jawa Tengah;33;2;3;2;2
+2024;Desember;DI Yogyakarta;34;3;3;2;3
+2024;Desember;Jawa Timur;35;3;2;3;3
+2024;Desember;Banten;36;2;3;3;3
+2024;Desember;Bali;51;3;3;3;3
+2024;Desember;Nusa Tenggara Barat;52;2;3;2;2
+2024;Desember;Nusa Tenggara Timur;53;2;3;1;2
+2024;Desember;Kalimantan Barat;61;2;3;2;2
+2024;Desember;Kalimantan Tengah;62;2;3;3;3
+2024;Desember;Kalimantan Selatan;63;3;2;2;2
+2024;Desember;Kalimantan Timur;64;2;3;2;2
+2024;Desember;Kalimantan Utara;65;2;3;3;3
+2024;Desember;Sulawesi Utara;71;3;3;3;3
+2024;Desember;Sulawesi Tengah;72;3;3;2;3
+2024;Desember;Sulawesi Selatan;73;2;3;3;3
+2024;Desember;Sulawesi Tenggara;74;3;3;3;3
+2024;Desember;Gorontalo;75;3;3;3;3
+2024;Desember;Sulawesi Barat;76;2;3;1;2
+2024;Desember;Maluku;81;3;3;3;3
+2024;Desember;Maluku Utara;82;2;3;2;2
+2024;Desember;Papua;91;2;2;1;1
+2024;Desember;Papua Pegunungan;95;3;3;3;3
+2024;Desember;Papua Selatan;93;3;2;1;2
+2024;Desember;Papua Tengah;94;2;3;2;2
+2024;Desember;Papua Barat;92;2;2;1;1
+2024;Desember;Papua Barat Daya;92-B;2;3;1;2
+2025;Januari;Aceh;11;3;2;3;3
+2025;Januari;Sumatera Utara;12;2;2;3;2
+2025;Januari;Sumatera Barat;13;2;3;3;3
+2025;Januari;Riau;14;3;2;3;3
+2025;Januari;Jambi;15;3;2;3;3
+2025;Januari;Sumatera Selatan;16;2;2;3;2
+2025;Januari;Bengkulu;17;3;2;3;3
+2025;Januari;Lampung;18;2;3;3;3
+2025;Januari;Bangka Belitung;19;3;2;3;3
+2025;Januari;Kepulauan Riau;21;2;2;3;2
+2025;Januari;DKI Jakarta;31;3;2;3;3
+2025;Januari;Jawa Barat;32;2;3;3;3
+2025;Januari;Jawa Tengah;33;3;2;2;2
+2025;Januari;DI Yogyakarta;34;2;2;2;2
+2025;Januari;Jawa Timur;35;2;2;3;2
+2025;Januari;Banten;36;3;2;3;3
+2025;Januari;Bali;51;3;3;3;3
+2025;Januari;Nusa Tenggara Barat;52;3;2;2;2
+2025;Januari;Nusa Tenggara Timur;53;3;3;1;2
+2025;Januari;Kalimantan Barat;61;1;3;2;2
+2025;Januari;Kalimantan Tengah;62;2;3;3;3
+2025;Januari;Kalimantan Selatan;63;1;2;2;1
+2025;Januari;Kalimantan Timur;64;3;3;2;3
+2025;Januari;Kalimantan Utara;65;1;2;3;2
+2025;Januari;Sulawesi Utara;71;2;3;3;3
+2025;Januari;Sulawesi Tengah;72;2;2;2;2
+2025;Januari;Sulawesi Selatan;73;2;3;3;3
+2025;Januari;Sulawesi Tenggara;74;3;3;3;3
+2025;Januari;Gorontalo;75;3;2;3;3
+2025;Januari;Sulawesi Barat;76;2;3;1;2
+2025;Januari;Maluku;81;3;3;3;3
+2025;Januari;Maluku Utara;82;2;3;3;3
+2025;Januari;Papua;91;1;3;1;1
+2025;Januari;Papua Pegunungan;95;3;3;3;3
+2025;Januari;Papua Selatan;93;3;2;1;2
+2025;Januari;Papua Tengah;94;2;3;2;2
+2025;Januari;Papua Barat;92;3;2;1;2
+2025;Januari;Papua Barat Daya;92-B;2;3;1;2
+2025;Februari;Aceh;11;3;2;3;3
+2025;Februari;Sumatera Utara;12;2;2;3;2
+2025;Februari;Sumatera Barat;13;2;2;3;2
+2025;Februari;Riau;14;2;2;3;2
+2025;Februari;Jambi;15;3;2;3;3
+2025;Februari;Sumatera Selatan;16;1;2;3;2
+2025;Februari;Bengkulu;17;2;2;3;2
+2025;Februari;Lampung;18;2;2;3;2
+2025;Februari;Bangka Belitung;19;2;2;3;2
+2025;Februari;Kepulauan Riau;21;2;2;3;2
+2025;Februari;DKI Jakarta;31;2;3;3;3
+2025;Februari;Jawa Barat;32;2;2;3;2
+2025;Februari;Jawa Tengah;33;2;2;2;2
+2025;Februari;DI Yogyakarta;34;1;2;2;1
+2025;Februari;Jawa Timur;35;3;2;3;3
+2025;Februari;Banten;36;2;2;3;2
+2025;Februari;Bali;51;2;2;3;2
+2025;Februari;Nusa Tenggara Barat;52;2;2;1;1
+2025;Februari;Nusa Tenggara Timur;53;3;2;1;2
+2025;Februari;Kalimantan Barat;61;1;2;2;1
+2025;Februari;Kalimantan Tengah;62;2;2;3;2
+2025;Februari;Kalimantan Selatan;63;3;2;2;2
+2025;Februari;Kalimantan Timur;64;2;2;2;2
+2025;Februari;Kalimantan Utara;65;3;2;3;3
+2025;Februari;Sulawesi Utara;71;2;2;3;2
+2025;Februari;Sulawesi Tengah;72;2;2;2;2
+2025;Februari;Sulawesi Selatan;73;3;2;3;3
+2025;Februari;Sulawesi Tenggara;74;3;2;3;3
+2025;Februari;Gorontalo;75;2;2;3;2
+2025;Februari;Sulawesi Barat;76;2;2;1;1
+2025;Februari;Maluku;81;2;2;2;2
+2025;Februari;Maluku Utara;82;2;2;3;2
+2025;Februari;Papua;91;2;2;1;1
+2025;Februari;Papua Pegunungan;95;2;1;3;2
+2025;Februari;Papua Selatan;93;3;3;1;2
+2025;Februari;Papua Tengah;94;2;2;2;2
+2025;Februari;Papua Barat;92;2;2;1;1
+2025;Februari;Papua Barat Daya;92-B;2;2;1;1
+2025;Maret;Aceh;11;2;2;3;2
+2025;Maret;Sumatera Utara;12;2;2;3;2
+2025;Maret;Sumatera Barat;13;2;2;3;2
+2025;Maret;Riau;14;2;2;3;2
+2025;Maret;Jambi;15;2;2;3;2
+2025;Maret;Sumatera Selatan;16;1;2;3;2
+2025;Maret;Bengkulu;17;2;2;3;2
+2025;Maret;Lampung;18;1;2;3;2
+2025;Maret;Bangka Belitung;19;3;2;3;3
+2025;Maret;Kepulauan Riau;21;3;3;3;3
+2025;Maret;DKI Jakarta;31;2;3;3;3
+2025;Maret;Jawa Barat;32;2;3;3;3
+2025;Maret;Jawa Tengah;33;2;2;2;2
+2025;Maret;DI Yogyakarta;34;2;2;2;2
+2025;Maret;Jawa Timur;35;2;2;3;2
+2025;Maret;Banten;36;2;2;3;2
+2025;Maret;Bali;51;2;3;3;3
+2025;Maret;Nusa Tenggara Barat;52;1;3;1;1
+2025;Maret;Nusa Tenggara Timur;53;3;2;1;2
+2025;Maret;Kalimantan Barat;61;1;3;2;2
+2025;Maret;Kalimantan Tengah;62;2;2;3;2
+2025;Maret;Kalimantan Selatan;63;3;3;2;3
+2025;Maret;Kalimantan Timur;64;2;3;2;2
+2025;Maret;Kalimantan Utara;65;2;2;3;2
+2025;Maret;Sulawesi Utara;71;2;2;3;2
+2025;Maret;Sulawesi Tengah;72;2;3;2;2
+2025;Maret;Sulawesi Selatan;73;1;2;3;2
+2025;Maret;Sulawesi Tenggara;74;2;3;3;3
+2025;Maret;Gorontalo;75;2;3;3;3
+2025;Maret;Sulawesi Barat;76;3;2;1;2
+2025;Maret;Maluku;81;2;3;2;2
+2025;Maret;Maluku Utara;82;2;1;3;2
+2025;Maret;Papua;91;2;3;1;2
+2025;Maret;Papua Pegunungan;95;2;1;3;2
+2025;Maret;Papua Selatan;93;2;3;1;2
+2025;Maret;Papua Tengah;94;2;3;2;2
+2025;Maret;Papua Barat;92;2;2;1;1
+2025;Maret;Papua Barat Daya;92-B;2;3;1;2
+2025;April;Aceh;11;1;2;3;2
+2025;April;Sumatera Utara;12;3;3;3;3
+2025;April;Sumatera Barat;13;3;1;3;2
+2025;April;Riau;14;1;3;3;2
+2025;April;Jambi;15;2;3;3;3
+2025;April;Sumatera Selatan;16;2;3;3;3
+2025;April;Bengkulu;17;2;2;3;2
+2025;April;Lampung;18;2;2;3;2
+2025;April;Bangka Belitung;19;2;2;3;2
+2025;April;Kepulauan Riau;21;3;2;3;3
+2025;April;DKI Jakarta;31;2;2;3;2
+2025;April;Jawa Barat;32;2;2;3;2
+2025;April;Jawa Tengah;33;2;2;2;2
+2025;April;DI Yogyakarta;34;3;3;2;3
+2025;April;Jawa Timur;35;2;2;3;2
+2025;April;Banten;36;2;3;3;3
+2025;April;Bali;51;1;3;2;2
+2025;April;Nusa Tenggara Barat;52;2;3;1;2
+2025;April;Nusa Tenggara Timur;53;3;3;1;2
+2025;April;Kalimantan Barat;61;2;2;2;2
+2025;April;Kalimantan Tengah;62;2;2;3;2
+2025;April;Kalimantan Selatan;63;3;2;2;2
+2025;April;Kalimantan Timur;64;2;1;2;1
+2025;April;Kalimantan Utara;65;3;2;3;3
+2025;April;Sulawesi Utara;71;3;2;3;3
+2025;April;Sulawesi Tengah;72;3;2;2;2
+2025;April;Sulawesi Selatan;73;2;3;3;3
+2025;April;Sulawesi Tenggara;74;2;2;3;2
+2025;April;Gorontalo;75;2;2;3;2
+2025;April;Sulawesi Barat;76;2;2;1;1
+2025;April;Maluku;81;2;1;2;1
+2025;April;Maluku Utara;82;3;1;3;2
+2025;April;Papua;91;2;2;1;1
+2025;April;Papua Pegunungan;95;2;1;3;2
+2025;April;Papua Selatan;93;2;3;1;2
+2025;April;Papua Tengah;94;2;3;2;2
+2025;April;Papua Barat;92;2;1;1;1
+2025;April;Papua Barat Daya;92-B;2;3;1;2
+2025;Mei;Aceh;11;2;3;3;3
+2025;Mei;Sumatera Utara;12;3;2;3;3
+2025;Mei;Sumatera Barat;13;2;3;3;3
+2025;Mei;Riau;14;2;2;3;2
+2025;Mei;Jambi;15;1;2;3;2
+2025;Mei;Sumatera Selatan;16;2;2;3;2
+2025;Mei;Bengkulu;17;2;2;3;2
+2025;Mei;Lampung;18;2;2;3;2
+2025;Mei;Bangka Belitung;19;2;2;3;2
+2025;Mei;Kepulauan Riau;21;2;3;3;3
+2025;Mei;DKI Jakarta;31;2;3;3;3
+2025;Mei;Jawa Barat;32;1;3;3;2
+2025;Mei;Jawa Tengah;33;2;2;2;2
+2025;Mei;DI Yogyakarta;34;2;2;2;2
+2025;Mei;Jawa Timur;35;2;2;3;2
+2025;Mei;Banten;36;3;2;3;3
+2025;Mei;Bali;51;1;3;3;2
+2025;Mei;Nusa Tenggara Barat;52;2;3;2;2
+2025;Mei;Nusa Tenggara Timur;53;2;3;1;2
+2025;Mei;Kalimantan Barat;61;2;3;2;2
+2025;Mei;Kalimantan Tengah;62;2;2;3;2
+2025;Mei;Kalimantan Selatan;63;2;2;2;2
+2025;Mei;Kalimantan Timur;64;2;3;2;2
+2025;Mei;Kalimantan Utara;65;2;2;3;2
+2025;Mei;Sulawesi Utara;71;2;2;3;2
+2025;Mei;Sulawesi Tengah;72;2;2;2;2
+2025;Mei;Sulawesi Selatan;73;1;2;3;2
+2025;Mei;Sulawesi Tenggara;74;2;2;3;2
+2025;Mei;Gorontalo;75;3;3;3;3
+2025;Mei;Sulawesi Barat;76;2;2;1;1
+2025;Mei;Maluku;81;2;3;2;2
+2025;Mei;Maluku Utara;82;2;2;3;2
+2025;Mei;Papua;91;2;3;1;2
+2025;Mei;Papua Pegunungan;95;3;1;3;2
+2025;Mei;Papua Selatan;93;3;3;1;2
+2025;Mei;Papua Tengah;94;2;3;2;2
+2025;Mei;Papua Barat;92;2;2;1;1
+2025;Mei;Papua Barat Daya;92-B;2;3;1;2
+2025;Juni;Aceh;11;3;3;3;3
+2025;Juni;Sumatera Utara;12;3;2;3;3
+2025;Juni;Sumatera Barat;13;3;3;3;3
+2025;Juni;Riau;14;2;3;3;3
+2025;Juni;Jambi;15;3;2;3;3
+2025;Juni;Sumatera Selatan;16;2;2;3;2
+2025;Juni;Bengkulu;17;2;2;3;2
+2025;Juni;Lampung;18;3;3;3;3
+2025;Juni;Bangka Belitung;19;3;2;3;3
+2025;Juni;Kepulauan Riau;21;2;3;3;3
+2025;Juni;DKI Jakarta;31;2;3;2;
+2025;Juni;Jawa Barat;32;3;3;3;3
+2025;Juni;Jawa Tengah;33;2;2;2;2
+2025;Juni;DI Yogyakarta;34;3;2;2;2
+2025;Juni;Jawa Timur;35;2;2;3;2
+2025;Juni;Banten;36;3;3;3;3
+2025;Juni;Bali;51;2;3;3;3
+2025;Juni;Nusa Tenggara Barat;52;3;3;1;2
+2025;Juni;Nusa Tenggara Timur;53;2;3;1;2
+2025;Juni;Kalimantan Barat;61;3;3;2;3
+2025;Juni;Kalimantan Tengah;62;2;2;3;2
+2025;Juni;Kalimantan Selatan;63;2;3;2;2
+2025;Juni;Kalimantan Timur;64;3;3;2;3
+2025;Juni;Kalimantan Utara;65;2;2;3;2
+2025;Juni;Sulawesi Utara;71;2;2;3;2
+2025;Juni;Sulawesi Tengah;72;2;2;2;2
+2025;Juni;Sulawesi Selatan;73;2;2;3;2
+2025;Juni;Sulawesi Tenggara;74;3;3;3;3
+2025;Juni;Gorontalo;75;3;3;3;3
+2025;Juni;Sulawesi Barat;76;2;2;1;1
+2025;Juni;Maluku;81;3;3;2;3
+2025;Juni;Maluku Utara;82;2;2;3;2
+2025;Juni;Papua;91;2;3;1;2
+2025;Juni;Papua Pegunungan;95;3;3;2;3
+2025;Juni;Papua Selatan;93;3;3;1;2
+2025;Juni;Papua Tengah;94;3;1;2;2
+2025;Juni;Papua Barat;92;2;3;1;2
+2025;Juni;Papua Barat Daya;92-B;2;3;1;2
+2025;Juli;Aceh;11;3;2;3;3
+2025;Juli;Sumatera Utara;12;3;2;3;3
+2025;Juli;Sumatera Barat;13;3;3;3;3
+2025;Juli;Riau;14;3;2;3;3
+2025;Juli;Jambi;15;3;2;3;3
+2025;Juli;Sumatera Selatan;16;3;2;3;3
+2025;Juli;Bengkulu;17;3;2;3;3
+2025;Juli;Lampung;18;3;2;3;3
+2025;Juli;Bangka Belitung;19;2;2;3;2
+2025;Juli;Kepulauan Riau;21;2;2;3;2
+2025;Juli;DKI Jakarta;31;2;3;3;3
+2025;Juli;Jawa Barat;32;2;2;3;2
+2025;Juli;Jawa Tengah;33;3;2;2;2
+2025;Juli;DI Yogyakarta;34;2;2;2;2
+2025;Juli;Jawa Timur;35;3;2;3;3
+2025;Juli;Banten;36;2;2;3;2
+2025;Juli;Bali;51;2;3;3;3
+2025;Juli;Nusa Tenggara Barat;52;3;3;2;3
+2025;Juli;Nusa Tenggara Timur;53;2;3;1;2
+2025;Juli;Kalimantan Barat;61;3;2;2;2
+2025;Juli;Kalimantan Tengah;62;2;2;2;2
+2025;Juli;Kalimantan Selatan;63;3;2;2;2
+2025;Juli;Kalimantan Timur;64;2;3;2;2
+2025;Juli;Kalimantan Utara;65;3;2;3;3
+2025;Juli;Sulawesi Utara;71;2;2;3;2
+2025;Juli;Sulawesi Tengah;72;3;1;2;2
+2025;Juli;Sulawesi Selatan;73;3;2;3;3
+2025;Juli;Sulawesi Tenggara;74;3;2;3;3
+2025;Juli;Gorontalo;75;2;3;3;3
+2025;Juli;Sulawesi Barat;76;3;2;1;2
+2025;Juli;Maluku;81;2;2;2;2
+2025;Juli;Maluku Utara;82;2;2;3;2
+2025;Juli;Papua;91;3;2;1;2
+2025;Juli;Papua Pegunungan;95;2;1;2;1
+2025;Juli;Papua Selatan;93;2;1;1;1
+2025;Juli;Papua Tengah;94;2;3;2;2
+2025;Juli;Papua Barat;92;2;2;1;1
+2025;Juli;Papua Barat Daya;92-B;2;3;1;2
+2025;Agustus;Aceh;11;3;1;3;2
+2025;Agustus;Sumatera Utara;12;2;2;3;2
+2025;Agustus;Sumatera Barat;13;1;3;3;2
+2025;Agustus;Riau;14;3;2;3;3
+2025;Agustus;Jambi;15;3;2;3;3
+2025;Agustus;Sumatera Selatan;16;3;2;3;3
+2025;Agustus;Bengkulu;17;2;2;3;2
+2025;Agustus;Lampung;18;1;2;3;2
+2025;Agustus;Bangka Belitung;19;2;2;3;2
+2025;Agustus;Kepulauan Riau;21;3;3;3;3
+2025;Agustus;DKI Jakarta;31;3;3;3;3
+2025;Agustus;Jawa Barat;32;3;2;3;3
+2025;Agustus;Jawa Tengah;33;3;2;3;3
+2025;Agustus;DI Yogyakarta;34;3;2;2;2
+2025;Agustus;Jawa Timur;35;3;2;3;3
+2025;Agustus;Banten;36;2;3;3;3
+2025;Agustus;Bali;51;2;3;3;3
+2025;Agustus;Nusa Tenggara Barat;52;3;2;2;2
+2025;Agustus;Nusa Tenggara Timur;53;3;3;1;2
+2025;Agustus;Kalimantan Barat;61;2;3;2;2
+2025;Agustus;Kalimantan Tengah;62;2;2;3;2
+2025;Agustus;Kalimantan Selatan;63;3;3;2;3
+2025;Agustus;Kalimantan Timur;64;1;3;2;2
+2025;Agustus;Kalimantan Utara;65;3;2;3;3
+2025;Agustus;Sulawesi Utara;71;2;1;3;2
+2025;Agustus;Sulawesi Tengah;72;3;2;2;2
+2025;Agustus;Sulawesi Selatan;73;3;2;3;3
+2025;Agustus;Sulawesi Tenggara;74;3;2;3;3
+2025;Agustus;Gorontalo;75;2;2;3;2
+2025;Agustus;Sulawesi Barat;76;2;1;1;1
+2025;Agustus;Maluku;81;2;1;2;1
+2025;Agustus;Maluku Utara;82;2;2;3;2
+2025;Agustus;Papua;91;3;3;2;3
+2025;Agustus;Papua Pegunungan;95;3;1;2;2
+2025;Agustus;Papua Selatan;93;2;3;1;2
+2025;Agustus;Papua Tengah;94;2;2;2;2
+2025;Agustus;Papua Barat;92;2;2;1;1
+2025;Agustus;Papua Barat Daya;92-B;2;3;1;2
+2025;September;Aceh;11;2;1;3;2
+2025;September;Sumatera Utara;12;3;2;3;3
+2025;September;Sumatera Barat;13;2;3;3;3
+2025;September;Riau;14;1;3;3;2
+2025;September;Jambi;15;1;3;3;2
+2025;September;Sumatera Selatan;16;2;2;3;2
+2025;September;Bengkulu;17;2;2;3;2
+2025;September;Lampung;18;2;3;3;3
+2025;September;Bangka Belitung;19;2;2;3;2
+2025;September;Kepulauan Riau;21;2;3;3;3
+2025;September;DKI Jakarta;31;2;3;3;3
+2025;September;Jawa Barat;32;3;3;3;3
+2025;September;Jawa Tengah;33;2;2;3;2
+2025;September;DI Yogyakarta;34;2;2;2;2
+2025;September;Jawa Timur;35;3;2;3;3
+2025;September;Banten;36;2;3;3;3
+2025;September;Bali;51;2;3;3;3
+2025;September;Nusa Tenggara Barat;52;3;2;2;2
+2025;September;Nusa Tenggara Timur;53;3;3;1;2
+2025;September;Kalimantan Barat;61;3;2;2;2
+2025;September;Kalimantan Tengah;62;2;2;3;2
+2025;September;Kalimantan Selatan;63;3;3;2;3
+2025;September;Kalimantan Timur;64;1;3;2;2
+2025;September;Kalimantan Utara;65;2;2;3;2
+2025;September;Sulawesi Utara;71;2;1;3;2
+2025;September;Sulawesi Tengah;72;2;1;2;1
+2025;September;Sulawesi Selatan;73;2;1;3;2
+2025;September;Sulawesi Tenggara;74;2;2;3;2
+2025;September;Gorontalo;75;3;2;3;3
+2025;September;Sulawesi Barat;76;3;1;1;1
+2025;September;Maluku;81;2;1;3;2
+2025;September;Maluku Utara;82;3;2;3;3
+2025;September;Papua;91;2;3;1;2
+2025;September;Papua Pegunungan;95;3;3;2;3
+2025;September;Papua Selatan;93;3;3;1;2
+2025;September;Papua Tengah;94;2;1;3;2
+2025;September;Papua Barat;92;2;3;1;2
+2025;September;Papua Barat Daya;92-B;2;3;1;2
+2025;Oktober;Aceh;11;2;2;3;2
+2025;Oktober;Sumatera Utara;12;3;2;3;3
+2025;Oktober;Sumatera Barat;13;1;2;3;2
+2025;Oktober;Riau;14;2;2;3;2
+2025;Oktober;Jambi;15;2;2;3;2
+2025;Oktober;Sumatera Selatan;16;2;3;3;3
+2025;Oktober;Bengkulu;17;2;2;3;2
+2025;Oktober;Lampung;18;2;2;3;2
+2025;Oktober;Bangka Belitung;19;2;2;3;2
+2025;Oktober;Kepulauan Riau;21;2;3;3;3
+2025;Oktober;DKI Jakarta;31;2;3;3;3
+2025;Oktober;Jawa Barat;32;3;2;3;3
+2025;Oktober;Jawa Tengah;33;2;2;3;2
+2025;Oktober;DI Yogyakarta;34;1;2;2;1
+2025;Oktober;Jawa Timur;35;3;2;3;3
+2025;Oktober;Banten;36;3;2;3;3
+2025;Oktober;Bali;51;2;3;3;3
+2025;Oktober;Nusa Tenggara Barat;52;3;2;2;2
+2025;Oktober;Nusa Tenggara Timur;53;3;3;1;2
+2025;Oktober;Kalimantan Barat;61;2;2;2;2
+2025;Oktober;Kalimantan Tengah;62;2;2;3;2
+2025;Oktober;Kalimantan Selatan;63;2;3;2;2
+2025;Oktober;Kalimantan Timur;64;2;2;2;2
+2025;Oktober;Kalimantan Utara;65;2;2;3;2
+2025;Oktober;Sulawesi Utara;71;2;2;3;2
+2025;Oktober;Sulawesi Tengah;72;2;2;3;2
+2025;Oktober;Sulawesi Selatan;73;2;2;3;2
+2025;Oktober;Sulawesi Tenggara;74;3;1;3;2
+2025;Oktober;Gorontalo;75;2;2;3;2
+2025;Oktober;Sulawesi Barat;76;3;2;1;2
+2025;Oktober;Maluku;81;3;2;3;3
+2025;Oktober;Maluku Utara;82;2;2;3;2
+2025;Oktober;Papua;91;2;3;1;2
+2025;Oktober;Papua Pegunungan;95;3;3;2;3
+2025;Oktober;Papua Selatan;93;3;3;1;2
+2025;Oktober;Papua Tengah;94;2;1;3;2
+2025;Oktober;Papua Barat;92;2;3;1;2
+2025;Oktober;Papua Barat Daya;92-B;3;3;1;2
